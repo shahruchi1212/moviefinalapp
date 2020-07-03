@@ -6,9 +6,11 @@ It uses open [The Movie Database (TMDb) API] (https://www.themoviedb.org/documen
 ![](https://github.com/namkwon/reactdemo/blob/master/docs/images/screencapture-main.png)
 ![](https://github.com/namkwon/reactdemo/blob/master/docs/images/screencapture-detail.png)
 
+
+<!--
 ## Live Demo
 [TMDb Movie App] (https://namkwon.github.io/reactdemo/)
-
+-->
 ## Features
 
 * List popular movies
